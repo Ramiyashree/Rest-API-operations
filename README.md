@@ -1,5 +1,5 @@
-# Hunger_Stay_Internship
-JAVASCRIPT REST API
+
+## JAVASCRIPT REST API
 
 ## Install
 ``` $ npm install express ```
