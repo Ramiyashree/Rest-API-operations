@@ -15,7 +15,7 @@ Demonstrating implementation of CRUD operations using Node.js and MongoDB
 
 ## GETTING A SPECIFIC ARTICLE
 
-![](https://github.com/Ramiyashree/Hunger_Stay_Internship/blob/master/images/Screenshot%20(126).png)
+![](https://github.com/Ramiyashree/Hunger-stay-internship/blob/master/images/Screenshot%20(126).png)
 
 ## UPDATING A SPECIFIC ARTICLE
 
