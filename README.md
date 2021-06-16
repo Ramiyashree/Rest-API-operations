@@ -9,29 +9,22 @@
 
 Demonstrating implementation of CRUD operations using Node.js and MongoDB
 
-## GETTING ALL THE ARTICLES
+## Getting all the articles 
 
 ![](https://github.com/Ramiyashree/Hunger-stay-internship/blob/master/images/first.png.png)
 
-## GETTING A SPECIFIC ARTICLE
+## Getting a specific article
 
 ![](https://github.com/Ramiyashree/Hunger-stay-internship/blob/master/images/Screenshot%20(126).png)
 
-## UPDATING A SPECIFIC ARTICLE
+## Updating a specific article
 
 ![](https://github.com/Ramiyashree/Hunger-stay-internship/blob/master/images//Screenshot%20(128).png)
 
-## DELETING A SPECIFIC ARTICLE
+## Deleting a specific article
 
 ![](https://github.com/Ramiyashree/Hunger-stay-internship/blob/master/images//Screenshot%20(129).png)
 
-## GET (find) servers by name. The parameter is a string. Must check if a server
-name contains this string and return one or more servers found. Return 404 if
-nothing is found.
-“Server” objects should be stored in a MongoDB database.
-Be sure that you can show how your application responds to requests using postman,
-curl or any other HTTP client
-
-GETTING SPECIFIC USERNAME ARTICLE
+## GET (find) article by user name - Filtering the article using the user's name
 
 ![](https://github.com/Ramiyashree/Hunger-stay-internship/blob/master/images//Screenshot%20(127).png)
